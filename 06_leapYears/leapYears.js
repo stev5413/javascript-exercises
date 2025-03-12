@@ -1,5 +1,12 @@
-const leapYears = function() {
+const leapYears = function(year) {
 
+    if () {
+    
+    }
+
+    else () {
+
+    }
 };
 
 // Do not edit below this line
